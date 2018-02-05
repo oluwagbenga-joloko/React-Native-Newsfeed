@@ -3,7 +3,7 @@ import actionTypes from '../constants/actionTypes';
 const categories = [
   { value: 'technology', name: 'Technology' },
   { value: 'business', name: 'Business' },
-  { value: 'entertainment', name: 'Entertainment' },
+  { value: 'entesrtainment', name: 'Entertainment' },
   { value: 'gaming', name: 'Gaming' },
   { value: 'health-and-medical', name: 'Health and Medical' },
   { value: 'general', name: 'General' },
